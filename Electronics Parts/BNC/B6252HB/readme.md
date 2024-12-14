@@ -8,4 +8,4 @@ There is a bug in FreeCAD which doesn't allow lining up of the pocket and hole/c
 
 So this results in the final back circular portions being slightly smaller.
 
-I've yet to find a another way.
+I've yet to find a another way. I've spent too much time with this issue.
